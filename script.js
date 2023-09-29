@@ -11,6 +11,9 @@ function createGrid(columnNum) {
       const square = document.createElement('div');
       square.setAttribute('id', 'square')
       column.append(square)
+      square.addEventListener('mousemove', () => {
+        square.style.backgroundColor = 'black';
+      })
     }
   }  
 }
