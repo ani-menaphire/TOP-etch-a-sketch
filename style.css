@@ -1,3 +1,7 @@
+#change-canvas {
+  margin-bottom: 10px;
+}
+
 #container {
   display: flex;
   flex-wrap: wrap;

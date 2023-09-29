@@ -1,3 +1,4 @@
+const canvasButton = document.querySelector('#change-canvas')
 const container = document.querySelector('#container');
 
 function createGrid(columnNum) {
