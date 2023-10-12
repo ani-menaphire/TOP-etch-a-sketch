@@ -9,7 +9,6 @@
   height: 700px;
 }
 
-/*to avoid having borders if the function is not called*/
 #container.frame {
   border: solid;
   border-width: 1px;
